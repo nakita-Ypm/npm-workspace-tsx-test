@@ -1,0 +1,8 @@
+{
+    "name": "@apps/fizzbuzz",
+    "private": true,
+    "main": "src/index.ts",
+    "dependencies": {
+      "@packages/fizzbuzz": "*"
+    }
+  }
