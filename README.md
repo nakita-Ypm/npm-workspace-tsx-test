@@ -1,6 +1,6 @@
 # npm-workspace-tsx-test
 
-## Deps
+## Dependence
 ```sh
 make deps
 ```
